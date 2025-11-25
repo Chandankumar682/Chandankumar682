@@ -23,6 +23,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 **Backend / Programming:**
 
