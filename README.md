@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Chaudhary</h1>
-<h3 align="center">B.Tech CSE (AIML) | Java Developer | Full Stack Learner</h3>
+<h3 align="center">B.Tech CSE (AIML) | Frontend Developer | Full Stack Learner</h3>
 
 ---
 
